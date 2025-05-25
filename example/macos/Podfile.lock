@@ -1,0 +1,35 @@
+PODS:
+  - flutter_soloud (0.0.1):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+  - mp3_decoder_flutter (0.0.1):
+    - FlutterMacOS
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - flutter_soloud (from `Flutter/ephemeral/.symlinks/plugins/flutter_soloud/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+  - mp3_decoder_flutter (from `Flutter/ephemeral/.symlinks/plugins/mp3_decoder_flutter/macos`)
+  - path_provider_foundation (from `Flutter/ephemeral/.symlinks/plugins/path_provider_foundation/darwin`)
+
+EXTERNAL SOURCES:
+  flutter_soloud:
+    :path: Flutter/ephemeral/.symlinks/plugins/flutter_soloud/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+  mp3_decoder_flutter:
+    :path: Flutter/ephemeral/.symlinks/plugins/mp3_decoder_flutter/macos
+  path_provider_foundation:
+    :path: Flutter/ephemeral/.symlinks/plugins/path_provider_foundation/darwin
+
+SPEC CHECKSUMS:
+  flutter_soloud: 6eb07f3defb294e7ad625ffa2b547362c778e989
+  FlutterMacOS: 8f6f14fa908a6fb3fba0cd85dbd81ec4b251fb24
+  mp3_decoder_flutter: 17fbe9ba8e2af59965922a23409b1b2e49623d24
+  path_provider_foundation: 080d55be775b7414fd5a5ef3ac137b97b097e564
+
+PODFILE CHECKSUM: 9ebaf0ce3d369aaa26a9ea0e159195ed94724cf3
+
+COCOAPODS: 1.16.2
