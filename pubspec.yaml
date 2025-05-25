@@ -36,6 +36,15 @@ flutter:
     platforms:
       macos:
         pluginClass: Mp3DecoderFlutterPlugin
+      ios: 
+        pluginClass: Mp3DecoderFlutterPlugin
+      android:
+        package: com.example.mp3_decoder_flutter
+        pluginClass: Mp3DecoderFlutterPlugin
+      linux:
+        pluginClass: Mp3DecoderFlutterPlugin
+      windows:
+        pluginClass: Mp3DecoderFlutterPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
